@@ -5,7 +5,7 @@
 
 ### About dataset:
 - Dataset includes:
-  - Football club which the footballers play for,
+  - Football clubs which the footballers play for,
   - Last name and first name of footballers,
   - Position of footballers,
   - Base salary and guaranteed compensation of footballers.
